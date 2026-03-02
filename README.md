@@ -16,3 +16,5 @@ devops-netology
 - и другие, перечисленные в файле.
 
 <img width="1919" height="1199" alt="image" src="https://github.com/user-attachments/assets/136f3b6c-d8fb-4d68-b253-1029f0d77567" />
+
+<img width="1919" height="1094" alt="image" src="https://github.com/user-attachments/assets/def89a9a-632b-4507-af46-1b24ee68cce9" />
