@@ -14,3 +14,5 @@ devops-netology
 - `terraform.tfplan` – игнорируется конкретный файл `terraform.tfplan`.
 - `!example.tfplan` – восклицательный знак означает исключение из игнорирования (файл `example.tfplan` не будет игнорироваться, даже если подпадает под другие правила).
 - и другие, перечисленные в файле.
+
+<img width="1919" height="1199" alt="image" src="https://github.com/user-attachments/assets/136f3b6c-d8fb-4d68-b253-1029f0d77567" />
